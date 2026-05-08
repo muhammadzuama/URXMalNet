@@ -90,7 +90,7 @@ CSV Summary Export
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/xmalnet.git
+git clone https://github.com/muhammadzuama/URXMalNet.git
 cd xmalnet
 ```
 
