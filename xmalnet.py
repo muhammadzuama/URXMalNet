@@ -91,6 +91,7 @@ class XMalNet:
         learning_rate=0.2,
         class_weight="balanced",
         random_state=42,
+        verbose=-1
     )
 
     def __init__(
